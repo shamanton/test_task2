@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Marion";
+  src: url("./fonts/13580.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/13580.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/Marion/13580.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/Marion/13580.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/Marion/13580.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/Marion/13580.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/Marion/13580.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 400;
+  font-style: normal;
+}
